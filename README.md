@@ -8,7 +8,7 @@
 - Currently studying a bachelor's degree in computer science at the National University of La Plata
 - I am self-taught, working on my personal project Zafiro
 
-<img width="320" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFlYzdjazk0ZWZwYjNxNXhteTN3aG41YnhweWloN3E0eXlsdTkzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif"/>
+<img width="256" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFlYzdjazk0ZWZwYjNxNXhteTN3aG41YnhweWloN3E0eXlsdTkzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif"/>
 
 ### Tecnologies
 
@@ -19,12 +19,12 @@
 ![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=0A66C2)
 ![Static Badge](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=0A66C2)
 ![Static Badge](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=0A66C2)
-![Static Badge](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
 
 ### Github Stats
 
 ![Lukitaaaaa's Stats](https://github-readme-stats.vercel.app/api?username=Lukitaaaaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Lukitaaaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lukitaaaaa&theme=vue-dark&hide_border=true)
+
 ![Lukitaaaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukitaaaaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
