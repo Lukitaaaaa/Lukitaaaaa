@@ -17,6 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)
 ![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=0A66C2)
+![Static Badge](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=0A66C2)
 ![Static Badge](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=0A66C2)
 ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
