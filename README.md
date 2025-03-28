@@ -1,5 +1,6 @@
 # Hi there, iam Lucas Gallardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-omar-gallardo/)
+[![Static Badge](https://img.shields.io/badge/website-white?style=for-the-badge)](https://lukitaaaaa.github.io/portafolio-web/)
 ## Full stack developer 👨‍💻
 
 ### About me
