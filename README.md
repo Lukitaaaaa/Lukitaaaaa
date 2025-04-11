@@ -5,9 +5,9 @@
 
 ### About me
 
-- I am from Argentina, Buenos Aires
+- I am from Argentina, Buenos Aires.
 - I am currently in my second year of a bachelor's degree in computer science at the National University of La Plata.
-- I am self-taught, working on my personal project Zafiro
+- I am self-taught, working on my personal project Zafiro.
 
 <img width="256" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFlYzdjazk0ZWZwYjNxNXhteTN3aG41YnhweWloN3E0eXlsdTkzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif"/>
 
