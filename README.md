@@ -31,3 +31,4 @@
 
 ![Lukitaaaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukitaaaaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+![lukitaaaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukitaaaaa&theme=cobalt&hide_border=false)
