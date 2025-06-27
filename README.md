@@ -24,6 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=0A66C2)
 ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Static Badge](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
 
 ### Github Stats
 
