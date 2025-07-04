@@ -25,6 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)
 
 ### Github Stats
 
