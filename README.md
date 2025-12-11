@@ -27,10 +27,6 @@
 ![Static Badge](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)
 
-### Github Stats
 
-![Lukitaaaaa's Stats](https://github-readme-stats.vercel.app/api?username=Lukitaaaaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Lukitaaaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukitaaaaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
